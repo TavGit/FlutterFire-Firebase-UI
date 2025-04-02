@@ -25,4 +25,4 @@ kita tidak dapat mengedit codingan atau tampilan ui design yang kita inginkan, j
 terlalu simpel.
 lebih disarankan kita membuat sendiri karena kita bisa tahu apa yg kita dapat dan kita bisa menemukan masalah/problem yg dapat membuat kita menjadi terlatih problem solving, dan kita juga bisa mengekpresikan tampilan seperti apa yang kita mau.
 
-Created by gustav ibrahim
+Ditulis langsung oleh gustav ibrahim
